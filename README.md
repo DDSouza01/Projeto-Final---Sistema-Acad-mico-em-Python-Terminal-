@@ -1,1 +1,1 @@
-# Projeto-Final---Sistema-Acad-mico-em-Python-Terminal-
+# Projeto Final Sistema Acadêmico em Python (Terminal)
